@@ -1,0 +1,16 @@
+{
+  "name": "output-ladder",
+  "owner": {
+    "name": "Murat Can Yuksel",
+    "url": "https://github.com/0xGondarxyz"
+  },
+  "description": "Re-explain the last answer as ASD-STE100 text, a diagram, an HTML page or an explainer video, and score answers for STE style.",
+  "plugins": [
+    {
+      "name": "output-ladder",
+      "source": "./",
+      "description": "Adds /ste, /diagram, /page and /video commands, buttons above the prompt, and an STE style score in the status line.",
+      "version": "0.1.0"
+    }
+  ]
+}
